@@ -1,5 +1,5 @@
-#My name is Jason. 
+#My name is Jason.
 
-I'm a student web developer and this would be my first solo project. It would be a personal website to showcase my portfolio which I would like to build as I continue to learn.
+This is my solo-project website showcasing my portfolio and projects during my time as a coder.
 
-I'm currently training at Founders and Coders.
+I'm currently a Student Web Developer at Founders and Coders.
