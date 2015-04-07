@@ -1,0 +1,33 @@
+body {
+	background-color: #fff;
+}
+
+.wrapper {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+	background-color: #fff;
+}
+.jumbotron.header {
+	text-transform: uppercase;
+}
+
+.jumbotron.about {
+}
+
+.jumbotron.footer {
+}
+
+a.social img {
+	text-align: center;
+	width: 40px;
+	height: 40px;
+}
+
+h3 {
+	text-decoration: line-through;
+}
