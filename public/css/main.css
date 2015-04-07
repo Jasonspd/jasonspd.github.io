@@ -1,5 +1,5 @@
 body {
-	background-color: #fff;
+	background-color: #eee;
 }
 
 .wrapper {
@@ -10,10 +10,11 @@ body {
 
 .jumbotron {
 	margin-bottom: 0px;
-	background-color: #fff;
+	background-color: #eee;
 }
 .jumbotron.header {
 	text-transform: uppercase;
+	background-color: #fff;
 }
 
 .jumbotron.about {
