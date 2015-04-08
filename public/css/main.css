@@ -53,3 +53,7 @@ span.orangecode {
 span.bluecode {
 	color: #66d9ef;
 }
+
+p.code {
+	font-size: 10px;
+}
