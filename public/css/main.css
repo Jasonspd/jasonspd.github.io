@@ -31,13 +31,25 @@ a.social img {
 }
 
 .jumbotron h1 {
-	color: #66d9ef;
 }
 
 h3.special {
 	text-decoration: line-through;
+	color: #e6db74;
 }
 
-span.code {
+span.pinkcode {
 	color: #f92672;
+}
+
+span.purplecode {
+	color: #ae81ff;
+}
+
+span.orangecode {
+	color: #fd9720;
+}
+
+span.bluecode {
+	color: #66d9ef;
 }
