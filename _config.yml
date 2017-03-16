@@ -1,0 +1,13 @@
+---
+title: Jasonspd.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  collection:
+    title: collection
+    output: true
